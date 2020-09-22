@@ -1,0 +1,22 @@
+.view_container {
+    width: 100vw;
+    height: 100vh;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: #701c1c;
+    font-family: monospace;
+}
+.clear_btn {
+    margin-bottom: 28px;
+}
+
+.sketch_container {
+    width: 500px;
+    height: 500px;
+    display: grid;
+}
